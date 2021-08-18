@@ -6,7 +6,8 @@ AWID-CLS-R-Trn - Training dataset
 AWID-CLS-R-Tst - Testing dataset
 Can download the dataset from above mentioned website. 
 
-Requirements:\n
+Requirements:
+
 Jupyter Notebook,
 Python 3.8 and
 Visual studio code
