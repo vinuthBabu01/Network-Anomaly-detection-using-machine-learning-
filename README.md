@@ -1,15 +1,21 @@
 # Network Anomaly detection using machine learning 
 Data set 
 AWID(Aegean Wi-Fi Intrusion dataset)
+
 https://icsdweb.aegean.gr/awid/awid2
+
 AWID-CLS-R-Trn - Training dataset
+
 AWID-CLS-R-Tst - Testing dataset
-Can download the dataset from above mentioned website. 
+
+Dataset can be downloaded from the mentioned website(https://icsdweb.aegean.gr/awid/awid2)
 
 Requirements:
 
-Jupyter Notebook,
-Python 3.8 and
+Jupyter Notebook
+
+Python 3.8
+
 Visual studio code
 
 1. AWID dataset is pre-processed and analysed using a machine learning algorithm
