@@ -7,8 +7,8 @@ AWID-CLS-R-Tst - Testing dataset
 Can download the dataset from above mentioned website. 
 
 Requirements
-Jupyter Notebook
-Python 3.8
+Jupyter Notebook,
+Python 3.8 and
 Visual studio code
 
 1. AWID dataset is pre-processed and analysed using a machine learning algorithm
